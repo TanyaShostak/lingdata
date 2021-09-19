@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-09-19T19:47:15+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/tanya/Downloads/interview.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../Downloads/interview.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:2be7367b-12bb-4b96-9441-e1de098220c3</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">46</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="6370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="7820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="7890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="11500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="12570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="13890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="14245"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="16135"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="17675"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="20690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="21677"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="26420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="27520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="31910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="32030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="33440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="33560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="38110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="39030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="39700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="40000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="42960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="43355"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="44755"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="46020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="64120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="64910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="81680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="82100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="86780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="87085"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="91550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="91772"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="95627"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="97627"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="97812"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="98450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="113690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="114980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="115970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="116110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="118610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="119255"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="126895"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="127460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="133140"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER ANNOTATOR="TanyaShostak" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@kem1965f" TIER_ID="text@kem1965f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>ну наши дети они всесторонне развитые они //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>кто-то любит читать / кто-то любит рисовать / кто-то любит конструировать //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>кто-то ммм любит с выражением читать стихотворения //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>нет без дела наши дети не сидят у нас очень бурная и кипучая жизнь в нашем доме //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>эээ ну как бы прерогатива ммм подбора воспитанникам родителей это прерогатива конечно органы опеки и попечительства / находящегося на территории Будённовского муниципального раи района ну и как бы других ээ муниципальных образований //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>нуу эээ мы способствуем / конечно / способствуем чтобы э / э наши дети которые живут в нашем доме / обязательно приобрели себе семь.. нашли себе / неп неправильно наверно слово подобрала / нашли себе семью //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>нуу как бы мы эээ / приходят очень много таких людей //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>но законодательство на сегодняшний день запрещает вести нам / нам / запрещает вести такую деятельность да //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>поэтому мы как бы ээ стараемся осторожничать / аа но уже заранее как бы / видим / ээ какой человек / ээм какая семья / стоит ли направлять их в органы опеки //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>и вот если мы видим что да / действительно //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>ээ потому что все / наши дети / все анкеты наших детей находятся в региональном банке данных / ставропольского края //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>ии в региональном банке дан.. ээ ии в региональный банк данных ээ очень / закрытый доступ //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="TanyaShostak" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@yp1992m" TIER_ID="text@yp1992m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>здравствуйте дорогие подписчики //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>мы в детском доме Толсто-Васюковском номер семнадцать у директора //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>и будем задавать интервью //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>первый вопрос чем увлекаются дети? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>ну в общем без дела никто не сидит //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>понятно //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>второй вопрос / вы сами подыскиваете воспитанникам семьи? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>в чём ваша роль в этом процессе? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>а бывает то что приходят иии как бы сам там говорят ну / хочу усыновить? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>ммм / а / запрещает //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>ну это да это правильно да //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="TanyaShostak" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@kem1965f"
+        PARTICIPANT="@kem1965f" TIER_ID="transl@kem1965f">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a24" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>well our children are well-rounded they are //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a25" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>someone loves to read / someone loves to draw / someone loves to construct //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>someone mmm likes to read poems with expression //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a27" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>no our children do not sit idle we have a very stormy and hectic life in our house //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a28" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>uh well as it were the prerogative of mmm selection of parents for pupils is of course the prerogative of the guardianship and trusteeship authorities / located on the territory of the Budyonnovsky municipal district of the district and as it were other uh municipalities //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a29" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>well uh we contribute / of course / we contribute to our children who live in our house / sure to acquire families for themselves ... found themself / probably picked the wrong word / found themself a family //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a30" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>well we uh / a lot of such people come //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a31" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>but the legislation today prohibits us / us / prohibits such activities yes //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a32" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>so we sort of uh try to be careful / aa but already in advance / see / uh what kind of person / uh what family / is it worth sending them to the guardianship authorities //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a33" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>and if we see that yes / really //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a34" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>uh because all / our children / all the profiles of our children are in the regional databank / of Stavropol Territory //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a35" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>ai in a regional databank .. eh ai to a regional databank eh very / closed access //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="TanyaShostak" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@yp1992m"
+        PARTICIPANT="@yp1992m" TIER_ID="transl@yp1992m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a36" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>hello dear subscribers //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a37" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>we are in the Tolsto-Vasyukovsky orphanage number seventeen at the director //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a38" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>and we will ask interviews //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a39" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>the first question is what are children fond of? //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>well in general no one is sitting idle //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>clear //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>second question / do you yourself look for families for the pupils? //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a43" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>what is your role in this process? //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a44" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>does it happens that they come and say that they well / want to adopt? //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>mmm / a / forbids //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>well it is yes that is right yes //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="words" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="phonetic_transcription" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        CONTROLLED_VOCABULARY_REF="Gesture phases"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_phases" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        CONTROLLED_VOCABULARY_REF="POS" GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="part of speech" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_meaning" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <LOCALE LANGUAGE_CODE="en" VARIANT="ASCII"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001"
+        LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="POS">
+        <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_c2bab147-e82b-425b-89c2-d3bbe643c972">
+            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_375a9a40-0969-4091-9d16-c5ab62b90124">
+            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_2376e750-50f5-4436-b140-90ea66e4bfdf">
+            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_60fff56d-fefd-4fa9-a5dd-e524db20e4ef">
+            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_6183d96d-b614-4c36-8db5-f06e81553fd3">
+            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_d0bf54bf-69ee-426c-b038-9765314d83e2">
+            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_7f606585-cc7a-4445-9b27-2b06cbb08a89">
+            <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_28577224-8480-4e9d-ae03-08dfd3895b6b">
+            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_5d4db110-4056-4da7-ad57-879f9a183b14">
+            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_11a92bb6-ef86-4f93-82a6-5b871839c86e">
+            <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_ea898bfb-1fcc-4f1b-9909-e3d6432c96a8">
+            <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_0415049e-4b1a-4e58-8507-15e0be15e5fa">
+            <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_6e74ec80-0b06-46f0-ba2a-d21e52632cae">
+            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_d8016c4c-2ccd-4e60-9749-3c6c95f4260f">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_9c637b88-2422-4214-a7e4-786ecdcc74dd">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_b0848c78-211e-4963-b315-47fa74a6bffc">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_58ec2f59-49da-4a57-bac7-2c1b5f6ac208">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
