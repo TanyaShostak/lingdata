@@ -1,0 +1,11 @@
+s=input()
+a=' '.join(s.split(' ')[:-1])
+s=s[::-1]
+s=' '.join(s.split(' ')[:-1])
+s=s[::-1]
+s=s+","
+a=int(a)
+if(a>18):
+    print(s, "ты старше меня на", a-18, "лет")
+else:
+    print("вы менбше")
